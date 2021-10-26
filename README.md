@@ -1,3 +1,6 @@
+*** Someone forked this and made it better, thanks to f0rdprefect there is better instructions and better code for this, so check that out their fork - https://github.com/f0rdprefect/esp8266-keypad-mqtt ***
+
+
 # esp8266-keypad-mqtt
 Connect a Keypad to an MQTT server with an ESP8266
 
